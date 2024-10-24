@@ -1,0 +1,7 @@
+một khách_hàng có một dịch_vụ
+một khách_hàng có những khách_hàng
+một khách_hàng có những sản_phẩm
+một khách_hàng có những nhu_cầu
+một khách_hàng có những dịch_vụ
+một khách_hàng có các khách_hàng
+một khách_hàng có các sản_phẩm

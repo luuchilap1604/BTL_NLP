@@ -1,0 +1,4 @@
+{
+    "call": "hcmut.iaslab.nlp.app.__init__.main",
+	"usage": "python -m cli run --json_conf conf/app.json"
+}

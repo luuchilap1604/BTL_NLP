@@ -1,0 +1,7 @@
+(S (NP (Det một) (N khách_hàng)) (VP (V có) (NP (Det một) (N dịch_vụ))))
+(S (NP (Det một) (N khách_hàng)) (VP (V có) (NP (Det những) (N khách_hàng))))
+(S (NP (Det một) (N khách_hàng)) (VP (V có) (NP (Det những) (N sản_phẩm))))
+(S (NP (Det một) (N khách_hàng)) (VP (V có) (NP (Det những) (N nhu_cầu))))
+(S (NP (Det một) (N khách_hàng)) (VP (V có) (NP (Det những) (N dịch_vụ))))
+(S (NP (Det một) (N khách_hàng)) (VP (V có) (NP (Det các) (N khách_hàng))))
+(S (NP (Det một) (N khách_hàng)) (VP (V có) (NP (Det các) (N sản_phẩm))))
